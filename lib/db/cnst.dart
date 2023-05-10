@@ -1,0 +1,1 @@
+const MONGO_URL = "mongodb+srv://test:test@cluster0.jdmrlpr.mongodb.net/Flutter?retryWrites=true&w=majority";
